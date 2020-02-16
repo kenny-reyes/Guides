@@ -12,3 +12,5 @@
 ### React
 
 - [React i18next](https://react.i18next.com/) is a library for internationalization of for react web applications.
+- [Awesome React](https://github.com/enaqx/awesome-react) All the guide and manuals for React.js.
+
